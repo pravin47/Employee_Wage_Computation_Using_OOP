@@ -1,6 +1,6 @@
 package com.Emp_Wage;
 
-public class Emp_Wage_OOP {
+public class EmpWageOOP {
 
 	public static void Emp_Check() {
 
